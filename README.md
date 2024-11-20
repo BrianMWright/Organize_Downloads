@@ -1,4 +1,4 @@
-Organize Downloads by Year and Month
+Organize Downloads by Year and Month<br>
 This script organizes files in your Downloads folder into subdirectories based on their creation year and month. It is designed for macOS and uses the Zsh shell.
 
 Features
